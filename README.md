@@ -21,7 +21,7 @@ The idea of the challenge was to take a completed UI design and recreate it with
 
 ### Screenshot
 
-![](/images/screenshot.png)
+![](./screenshot.png)
 
 
 ## My process
